@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Pictures">
+        <file>mushroom.png</file>
+        <file>opening.png</file>
+        <file>apple.png</file>
+        <file>scenery.png</file>
+        <file>llama.png</file>
+    </qresource>
+    <qresource prefix="/scene"/>
+    <qresource prefix="/music">
+        <file>background.mp3</file>
+    </qresource>
+</RCC>
